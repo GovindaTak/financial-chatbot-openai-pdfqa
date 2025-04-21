@@ -5,7 +5,7 @@ A financial document question-answering chatbot built using OpenAI GPT-4 and PyP
 
 This project is a hands-on implementation of a **domain-specific chatbot** using **OpenAI's GPT-4** and **Python**. It enables real-time Q&A on PDF-based financial documents such as product notes, annual reports, and investment guides.
 
----
+----
 
 ## 🧠 Objective
 
